@@ -1,20 +1,31 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: ivory;
+    background-color: rgb(240, 234, 223);
     margin: 5em;
+    color:rgb(94, 94, 91);
+    overflow: auto;
 
+
+
+}
+
+header{
+    text-align: center;
+}
+
+p{
+    width: 50%;
+    text-align: justify;
 }
 
 img {
     border: solid 1px;
     border-color: black;
+    float: right;
+    margin-right: 20%;
    
 }
 
 h1 {
     text-align: center;
-}
-
-p {
-    text-align: justify;
 }
